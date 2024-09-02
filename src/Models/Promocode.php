@@ -54,6 +54,8 @@ class Promocode extends Model
         parent::__construct($attributes);
 
         $this->table = config('promocodes.table', 'promocodes');
+
+        $this->connection = config('promocodes.connection', 'default');
     }
 
     /**

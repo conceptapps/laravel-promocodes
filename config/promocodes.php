@@ -9,6 +9,8 @@ return [
      */
     'table' => 'promocodes',
 
+    'connection' => 'default',
+
     /*
      * Database pivot table name for promocodes and users relation
      * use default database name: 'promocode_user'
