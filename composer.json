@@ -1,5 +1,5 @@
 {
-  "name": "zgabievi/promocodes",
+  "name": "conceptapps/promocodes",
   "description": "Promotional Codes Generator for Laravel 5",
   "keywords": [
     "promo code",
@@ -8,10 +8,14 @@
     "laravel",
     "php"
   ],
-  "homepage": "https://github.com/zgabievi/promocodes",
+  "homepage": "https://github.com/conceptapps/laravel-promocodes",
   "license": "MIT",
   "type": "library",
   "authors": [
+    {
+      "name": "Dan P",
+      "email": "danp@neogen.biz"
+    },
     {
       "name": "Zura Gabievi",
       "email": "zura.gabievi@gmail.com"
